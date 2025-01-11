@@ -2,20 +2,12 @@
   <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo" />
 </p>
 
-<h1 align="center">osTicket - Prerequisites and Installation</h1>
-<p align="center">This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.</p>
+<h1 align="center">osTicket - Post Installation </h1>
+<p align="center"></p>
 
-<h2>Environments and Technologies Used</h2>
-<ul>
-  <li>Microsoft Azure (Virtual Machines/Compute)</li>
-  <li>Remote Desktop</li>
-  <li>Internet Information Services (IIS)</li>
-</ul>
 
-<h2>Operating Systems Used</h2>
-<ul>
-  <li>Windows 10 (21H2)</li>
-</ul>
+<h2> Let's create several test tickets and view them from the perspective of the admin and the end user who will open the tickets </h2>
+
 
 <h2>Installation Steps</h2>
 
