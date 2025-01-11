@@ -44,6 +44,9 @@
           <li>Example: Role: Supreme Admin (highest level of access).</li>
         </ul>
       </li>
+      
+  <img src="https://i.imgur.com/EZkP1mB.png" alt="osTicket logo" />
+
    
   <li><strong>Departments (Ticket Visibility):</strong>
     <ul>
